@@ -10,7 +10,7 @@ The anlaysis codes includes the following
 
 
 
-![framework](/Users/pankaj/Documents/Final_codes_sensors/framework.png)
+![framework](framework.png)
 
 ​																			Figure 1. EFAR-MMLA
 
